@@ -1,11 +1,13 @@
 {
     "name": "anonym/test-repos",
+    "description": "this is test repos",
     "authors": [
         {
             "name": "Anonym",
             "email": "749867713@qq.com"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "test\\repos\\": "src"
