@@ -1,0 +1,15 @@
+{
+    "name": "anonym/test-repos",
+    "authors": [
+        {
+            "name": "Anonym",
+            "email": "749867713@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "test\\repos\\": "src"
+        }
+    },
+    "require": {}
+}
