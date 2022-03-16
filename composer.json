@@ -3,6 +3,7 @@
     "description": "this is test repos",
     "minimum-stability": "dev",
     "type": "library",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Anonym",
