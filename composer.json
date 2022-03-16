@@ -1,6 +1,8 @@
 {
     "name": "anonym/test-repos",
     "description": "this is test repos",
+    "minimum-stability": "dev",
+    "type": "library",
     "authors": [
         {
             "name": "Anonym",
