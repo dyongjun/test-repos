@@ -2,7 +2,7 @@
     "name": "anonym/test-repos",
     "description": "this is test repos",
     "type": "library",
-    "version": "1.0.0",
+    "version": "v1.0.1",
     "authors": [
         {
             "name": "Anonym",
